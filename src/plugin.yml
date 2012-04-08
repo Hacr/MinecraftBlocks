@@ -1,0 +1,9 @@
+name: HW
+main: me.Hacr.HW.HW
+version: 0.1
+authors: [Hacr]
+commands:
+   blocks:
+      description: Vis 5 siste blokker
+      usage: |
+             /<command>
