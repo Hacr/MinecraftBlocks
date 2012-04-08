@@ -1,6 +1,6 @@
 name: HW
 main: me.Hacr.HW.HW
-version: 0.1
+version: 0.2
 authors: [Hacr]
 commands:
    blocks:
